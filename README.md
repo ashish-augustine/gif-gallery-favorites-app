@@ -1,5 +1,5 @@
 
-## Web & Söhne GIF Search
+## Web & Söhne GIF Gallery
 
 ##  **Click here to view**: [https://webundsoehne-codingchallenge.netlify.app/](https://webundsoehne-codingchallenge.netlify.app/)
 
