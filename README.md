@@ -1,7 +1,7 @@
 
 ## Web & Söhne GIF Search
 
-##  **Click here to view the website**: [https://webundsoehne-codingchallenge.netlify.app/](https://webundsoehne-codingchallenge.netlify.app/)
+##  **Click here to view**: [https://webundsoehne-codingchallenge.netlify.app/](https://webundsoehne-codingchallenge.netlify.app/)
 
 
 ## Screenshots
