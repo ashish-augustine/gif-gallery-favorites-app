@@ -1,8 +1,7 @@
 
 ## Project info
 
-**URL**: [[https://lovable.dev/projects/e8ad96ab-bd98-4cc3-886d-f5f0fa9a72af](https://webundsoehne-codingchallenge.netlify.app/)](https://webundsoehne-codingchallenge.netlify.app/)
-
+**URL**: [https://lovable.dev/projects/e8ad96ab-bd98-4cc3-886d-f5f0fa9a72af](https://webundsoehne-codingchallenge.netlify.app/)
 
 Steps to run this project:
 
