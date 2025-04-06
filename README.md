@@ -1,5 +1,5 @@
 
-## Web & Söhne 
+## Web & Söhne Giphy Search
 
 **Live Demo URL**: [https://webundsoehne-codingchallenge.netlify.app/](https://webundsoehne-codingchallenge.netlify.app/)
 
