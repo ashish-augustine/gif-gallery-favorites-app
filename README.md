@@ -1,7 +1,7 @@
 
-## Project info
+## Web & Söhne 
 
-**URL**: [https://webundsoehne-codingchallenge.netlify.app/](https://webundsoehne-codingchallenge.netlify.app/)
+**Live Demo URL**: [https://webundsoehne-codingchallenge.netlify.app/](https://webundsoehne-codingchallenge.netlify.app/)
 
 Steps to run this project:
 
