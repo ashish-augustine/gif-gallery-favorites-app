@@ -11,7 +11,7 @@
 
 ![Image](https://github.com/user-attachments/assets/6aaa82df-c1d4-459a-bb6f-c9d8a1302740)
 
-Steps to run this project:
+## Steps to run this project:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
