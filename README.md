@@ -3,6 +3,14 @@
 
 **Live Demo URL**: [https://webundsoehne-codingchallenge.netlify.app/](https://webundsoehne-codingchallenge.netlify.app/)
 
+
+## Screenshots
+![Image](https://github.com/user-attachments/assets/26878394-381e-4444-a9f8-b92953cb66bc)
+
+![Image](https://github.com/user-attachments/assets/5309196f-9fd1-4ea1-9bad-600be3a5ff5c)
+
+![Image](https://github.com/user-attachments/assets/6aaa82df-c1d4-459a-bb6f-c9d8a1302740)
+
 Steps to run this project:
 
 ```sh
