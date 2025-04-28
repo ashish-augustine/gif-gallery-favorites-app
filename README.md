@@ -1,7 +1,7 @@
 
 ## Web & Söhne GIF Gallery Search - React App
 
-##  **Live Demo**: [https://webundsoehne-codingchallenge.netlify.app/](https://webundsoehne-codingchallenge.netlify.app/)
+##  **Live Demo**: [https://gif-gallery-app-ashishaugustine.netlify.app/](https://gif-gallery-app-ashishaugustine.netlify.app/)
 
 
 ## Screenshots
