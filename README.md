@@ -5,13 +5,17 @@
 
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/26878394-381e-4444-a9f8-b92953cb66bc)
+![Image](https://github.com/user-attachments/assets/0cef85da-ba62-448d-bc70-07f79195274c)
 
-![Image](https://github.com/user-attachments/assets/5309196f-9fd1-4ea1-9bad-600be3a5ff5c)
+![Image](https://github.com/user-attachments/assets/0573342b-eb56-46ec-8953-7fc81e4067e0)
 
-![Image](https://github.com/user-attachments/assets/6aaa82df-c1d4-459a-bb6f-c9d8a1302740)
+![Image](https://github.com/user-attachments/assets/58b31cd5-ffb3-4ca2-8ff9-554c10201968)
 
-![Image](https://github.com/user-attachments/assets/a2d8ba9d-9ec9-437c-a12c-c8c2243bd2c2)
+![Image](https://github.com/user-attachments/assets/7ba72a00-d281-42d4-8700-247e32ee47ec)
+
+![Image](https://github.com/user-attachments/assets/d923fd3d-9405-46e7-8bed-68d2e006ca2e)
+
+![Image](https://github.com/user-attachments/assets/953f7484-a585-40a2-bf53-65040bcf0678)
 
 ## Steps to run this project:
 
