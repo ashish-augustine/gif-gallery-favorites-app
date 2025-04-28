@@ -43,5 +43,4 @@ This project is built with:
 - Tailwind CSS
 
 
-
-# gif-gallery-favorites-app-main
+ 
