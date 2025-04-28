@@ -1,0 +1,110 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 260 60% 98%;
+    --foreground: 260 10% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 260 10% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 260 10% 10%;
+
+    --primary: 260 75% 55%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 180 70% 40%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 260 10% 90%;
+    --muted-foreground: 260 10% 40%;
+
+    --accent: 260 40% 90%;
+    --accent-foreground: 260 60% 30%;
+
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 260 20% 85%;
+    --input: 260 20% 85%;
+    --ring: 260 75% 55%;
+
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 260 30% 10%;
+    --foreground: 260 10% 90%;
+
+    --card: 260 25% 15%;
+    --card-foreground: 260 10% 90%;
+
+    --popover: 260 25% 15%;
+    --popover-foreground: 260 10% 90%;
+
+    --primary: 260 75% 60%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 180 70% 40%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 260 20% 20%;
+    --muted-foreground: 260 10% 60%;
+
+    --accent: 260 30% 20%;
+    --accent-foreground: 260 10% 90%;
+
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 260 20% 30%;
+    --input: 260 20% 30%;
+    --ring: 260 75% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+.masonry-grid {
+  display: flex;
+  width: auto;
+  margin-left: -16px;
+}
+
+.masonry-grid_column {
+  padding-left: 16px;
+  background-clip: padding-box;
+}
+
+.masonry-grid_column > div {
+  margin-bottom: 16px;
+}
+
+.gif-card {
+  @apply relative overflow-hidden rounded-lg transition-all duration-300 hover:shadow-lg;
+}
+
+.gif-card img {
+  @apply w-full object-cover transition-transform duration-300;
+}
+
+.gif-card:hover img {
+  @apply transform scale-105;
+}
+
+.favorite-btn {
+  @apply absolute top-2 right-2 p-2 rounded-full bg-black/50 backdrop-blur-sm text-white transition-colors duration-200 hover:bg-black/70;
+}
