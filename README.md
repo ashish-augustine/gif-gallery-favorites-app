@@ -1,5 +1,5 @@
 
-## Web & Söhne GIF Gallery Search - React App
+## GIF Gallery Search - React App
 
 ##  **Live Demo**: [https://gif-gallery-app-ashishaugustine.netlify.app/](https://gif-gallery-app-ashishaugustine.netlify.app/)
 
